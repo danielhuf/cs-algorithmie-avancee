@@ -1,0 +1,13 @@
+Compétion Alhorithmique Avancée CS 3A INFO 2023/24 -- Slow-Fast Scheduling online:
+
+Consignes:
+-- Ne modifiez pas et n'effacez pas le fichier 'metadata'. Gardez-le dans l'archive de votre soumission.
+-- Completez le code de 'Slow-Fast-Scheduling_online.py' mais ne touchez pas au '__main__'
+-- Pour indiquer si votre algoritme est détérministe ou randomisé, modifiez la fonction mon_algo_est_deterministe() qui retourne une valeur logique (True par défaut)
+-- Pour tester votre code utilisez la commande suivante : 
+       * python3 Slow-Fast-Scheduling_online.py rep_data_set rep_answer
+       * 'rep_data_set' correspond au répertoire contenant les fichiers instances
+       * 'rep_answer' correspond au répertoire où le fichier des réponses sera sauvegardé
+
+
+
